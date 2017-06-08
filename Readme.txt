@@ -1,3 +1,6 @@
+n this project,I contributed my work on creating RESTFUL API in Python where traffic from Linux operating system is controlled via web browser or command line using HTTP requests.Traffic parameters such as packet loss, delay, duplication and reordering can be controlled remotely using this tool
+
+
 ##################CREATIVE_CREW#############################
    Inside this folder:                                                      
 		--controller_scripts                       
